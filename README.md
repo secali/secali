@@ -1,4 +1,4 @@
-Bienvenido a mi Github 👋:
+Bienvenid@ a mi Github 👋:
 
 Me gustan los retos y me he propuesto diversos proyectos desde que tengo la capacidad suficiente para realizarlos:
 
