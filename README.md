@@ -20,6 +20,10 @@ https://github.com/secali/Traductor_Strings.xml_Android_Apps
 
 https://github.com/JSanchezFDZ/SII_Practicas
 
+- App que nace de la necesitad de practicar remo sin máquina y tampoco sin barca.
+
+https://github.com/secali/Bogador-Challenge
+
 Me gusta complementar mis conocimientos propios de mi campo con otros tantos, por lo que me gusta leer/escuchar podcast o divulgación de marketing y administración y dirección de empresa.
 
 📃Mi CV: 
