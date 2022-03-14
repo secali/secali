@@ -12,6 +12,8 @@ https://github.com/secali/Jabegapp_Android
 
 - Desarrollo de prototipo y prueba de concepto de app para Android de remo-ergómetro.
 
+https://github.com/secali/Bogador-Challenge
+
 - Desarrollo de script para facilitar la traducción automática de apps mediante el API de Traductor de Google en ficheros XML.
 
 https://github.com/secali/Traductor_Strings.xml_Android_Apps
@@ -20,9 +22,6 @@ https://github.com/secali/Traductor_Strings.xml_Android_Apps
 
 https://github.com/JSanchezFDZ/SII_Practicas
 
-- App que nace de la necesitad de practicar remo sin máquina y tampoco sin barca.
-
-https://github.com/secali/Bogador-Challenge
 
 Me gusta complementar mis conocimientos propios de mi campo con otros tantos, por lo que me gusta leer/escuchar podcast o divulgación de marketing y administración y dirección de empresa.
 
