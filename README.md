@@ -26,4 +26,4 @@ https://github.com/JSanchezFDZ/SII_Practicas
 Me gusta complementar mis conocimientos propios de mi campo con otros tantos, por lo que me gusta leer/escuchar podcast o divulgación de marketing y administración y dirección de empresa.
 
 📃Mi CV: 
-https://drive.google.com/file/d/1I0HSybZ1E0knP61bwuNT54bp7_JrE-mE
+https://drive.google.com/file/d/1OzG8j3nsDSLk9hzNnQmOZNtNXWQdxeQb/
