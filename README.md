@@ -20,7 +20,7 @@ https://github.com/secali/Traductor_Strings.xml_Android_Apps
 
 - Análisis y desarrollo de software de gestión interna para ONG Acoes en la Universidad de Málaga.
 
-https://github.com/JSanchezFDZ/SII_Practicas
+https://github.com/secali/SII_Practicas
 
 
 Me gusta complementar mis conocimientos propios de mi campo con otros tantos, por lo que me gusta leer/escuchar podcast o divulgación de marketing y administración y dirección de empresa.
