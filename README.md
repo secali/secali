@@ -67,19 +67,6 @@
 
 ---
 
-### 💼 Professional Experience & Track Record
-
-| Period | Role | Company | Core Stack & Key Achievements |
-|---|---|---|---|
-| **03/2025 – Present** | **Senior QA Automation Engineer / SDET** | **Knowmad Mood** | `Cucumber`, `Kafka`, `Karate`, `Kibana`, `SonarQube`, `Copilot`<br/>• Defined E2E test architecture for microservices and Kafka event streams.<br/>• Optimized BDD framework, reducing test creation time by 40% and execution by 25%.<br/>• Integrated AI tools (Copilot) and PowerShell automation to boost DevEx. |
-| **12/2024 – 03/2025** | **Senior QA Automation Engineer / SDET** | **ALTEN** | `Java`, `RestAssured`, `Cucumber`, `Gatling`, `Jenkins`<br/>• Architected modular test automation core with reusable code templates.<br/>• Designed and executed Gatling performance load simulations for REST APIs.<br/>• Built automated CI/CD execution flows in Jenkins pipelines. |
-| **04/2024 – 12/2024** | **QA Automation Engineer** | **Experis** | `Java`, `Selenium`, `Cucumber`, `Gatling`, `Nomad`, `Kibana`<br/>• Scaled generic test components and automated visual UI testing suites.<br/>• Maintained automated Jenkins regression suites in Nomad distributed environments.<br/>• Co-designed BDD scenarios in Jira + Xray and performed Kibana distributed log triage. |
-| **04/2023 – 04/2024** | **QA Automation Engineer** | **Babel Group** | `Java`, `Cucumber`, `RestAssured`, `WireMock`, `Kafka Magic`, `Azure DevOps`<br/>• Led quality strategy, test plans, and acceptance criteria refinement.<br/>• Automated backend integration tests for microservices and Kafka event flows.<br/>• Isolated test environments using WireMock and synthetic JSON/AVRO/SQL data. |
-| **05/2022 – 04/2023** | **QA Automation Engineer** | **Expleo Group** | `Playwright`, `Karate`, `Java`, `Cucumber`, `Mobile & IVR`<br/>• Led BDD adoption PoC and trained engineering teams in test automation.<br/>• Engineered Playwright E2E suites and validated REST APIs with Karate. |
-| **12/2019 – 04/2022** | **QA Engineer & Functional Analyst** | **University of Málaga** | `Cypress`, `SQL`, `Postman`<br/>• Automated critical business workflows using Cypress E2E.<br/>• Mapped functional requirements and generated SQL test data for regression suites. |
-
----
-
 ### 🎓 Education & Specialization
 
 - 🧠 **Specialization in Generative AI Applied to Development and QA** — *DEXS (Digital Experience School), 2026*
