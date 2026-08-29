@@ -79,19 +79,38 @@
 ### 📊 Live GitHub Analytics & Language Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=secali&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-</div>
 
-<br />
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=secali&layout=compact&theme=tokyonight&hide_border=true"
+        height="165"
+        alt="Top Languages"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=secali&theme=tokyonight"
+        height="165"
+        alt="Commit Languages"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=secali&theme=tokyonight"
+        width="100%"
+        alt="Profile Details"
+      />
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=secali&theme=tokyonight" width="49%" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=secali&theme=tokyonight" width="49%" alt="Commit Languages" />
 </div>
 
 ---
-
-<div align="center">
 
 ### 🤝 Let's Connect & Collaborate
 
