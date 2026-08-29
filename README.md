@@ -45,6 +45,7 @@
 - **AI & Multi-Agent Systems**: Model Context Protocol (MCP) Servers, Multi-Agent QA Pipelines, GitHub Copilot Workflows, LLM Evaluation
 - **Event-Driven & Microservices**: Apache Kafka, Kafka Magic, AVRO Schemas, WireMock, Spring Boot, Node.js, REST APIs
 - **Frontend & Mobile**: Angular, TypeScript, Android (Java/Kotlin), HTML5/SCSS, Responsive Web Architecture
+- **Embedded & IoT**: Arduino, Raspberry Pi, RTU Sensors, ADB Automation
 - **Performance & Load Testing**: Gatling, Apache JMeter
 - **CI/CD & Infrastructure**: Jenkins Pipelines, Azure DevOps, Docker, HashiCorp Nomad, Git / GitHub Actions
 - **Data & Observability**: MySQL, Oracle, MongoDB, SQLite, Kibana, Grafana, SonarQube, Checkstyle, Jira + Xray
