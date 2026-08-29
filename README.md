@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Sergio Cañete Linares
+# Hi there, I'm Sergio Cañete (secali) 👋
 ### **Senior QA Automation Engineer (SDET) | Software Developer in Test & AI-Driven Testing**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/secali)
@@ -10,25 +10,27 @@
 
 <br />
 
-<p align="center">
-  <strong>Designing resilient test automation architectures, event-driven validation frameworks (Apache Kafka), custom MCP servers, and multi-agent AI ecosystems for enterprise microservices.</strong>
-</p>
-
 ```json
 {
   "name": "Sergio Cañete Linares",
-  "title": "Senior QA Automation Engineer (SDET) & AI Testing Architect",
+  "role": "Senior QA Automation Engineer (SDET) & AI Testing Architect",
   "experience": "6+ Years in Software Engineering & Quality Architecture",
-  "current_role": "Senior SDET @ Knowmad Mood",
-  "core_competencies": [
-    "Test Automation Architecture from Scratch (Java / TypeScript / Karate / RestAssured)",
-    "AI-Driven QA & Multi-Agent Test Pipelines (MCP Servers, Copilot Workflows)",
-    "Asynchronous & Event-Driven Systems Testing (Apache Kafka, AVRO, WireMock)",
+  "current_company": "Knowmad Mood",
+  "focus": [
+    "Test Automation Frameworks from Scratch (Java / TypeScript / Karate / RestAssured)",
+    "AI-Driven QA & Multi-Agent Test Pipelines (Custom MCP Servers, Copilot Workflows)",
+    "Event-Driven Microservices Testing (Apache Kafka, AVRO, WireMock)",
     "Frontend & Mobile Architecture & Testing (Angular, TypeScript, Android Java/Kotlin, HTML5/SCSS)",
     "Unified Functional BDD & Performance Profiling (Cucumber + Gatling)"
   ],
   "location": "Spain 🇪🇸",
-  "status": "🚀 Open to Senior SDET, QA Leadership & AI-Driven Testing Collaborations"
+  "passions": [
+    "Clean Architecture",
+    "Multi-Agent AI Systems",
+    "Performance Profiling",
+    "Developer Experience (DevEx)",
+    "Open Source Tooling"
+  ]
 }
 ```
 
@@ -36,95 +38,35 @@
 
 ---
 
-## 🎯 Strategic Value & Technical Pillars
+### 🛠️ Tech Stack & Tooling
 
-```
- ┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
- │                                 CORE ENGINEERING FOCUS & EXPERTISE                               │
- ├──────────────────────────────┬──────────────────────────────┬────────────────────────────────────┤
- │ 🤖 AI & Multi-Agent QA       │ ⚡ Event-Driven Microservices│ 🏗️ Reusable BDD Architecture      │
- │ • 6-Agent AI Test Ecosystem  │ • Apache Kafka & Kafka Magic │ • Parameterized Gherkin Catalog   │
- │ • Custom MCP Server Harness  │ • AVRO & JSON Schema Quality │ • 40% Reduction in Authoring Time  │
- │ • Copilot Memory Bank Hybrid │ • WireMock Service Virtual.  │ • Multi-Environment Orchestration │
- └──────────────────────────────┴──────────────────────────────┴────────────────────────────────────┘
-```
-
-### 🧠 1. Pioneer in AI-Driven Testing & Multi-Agent Systems
-- **End-to-End Multi-Agent QA Pipeline**: Architected a 6-agent AI ecosystem equipped with dedicated Model Context Protocol (MCP) servers spanning functional story refinement, N1–N4 testing strategy definition, dictionary-driven Gherkin generation, Java/Cucumber step synthesis, and daily regression triage.
-- **Persistent AI Coding Memory (Advanced Logbook)**: Engineered hybrid SQLite + Markdown memory bank architecture via custom MCP servers to eliminate context drift in AI coding assistants (GitHub Copilot / Claude / GPT).
-- **Copilot Agent Evaluation Framework**: Built automated BDD harnesses to verify AI agent conversational accuracy, tool calling reliability, and safety boundary adherence.
-
-### ⚡ 2. Event-Driven Systems & Microservices Test Engineering
-- **Kafka-Te BDD Framework**: Created proprietary framework merging Apache Kafka and KarateDSL for asynchronous event-driven integration testing.
-- **Mock & Data Isolation**: Engineered isolated pre-production test environments using WireMock and synthetic data generators for complex JSON, AVRO, and relational SQL schemas.
-- **Enterprise Observability**: Incident triage and distributed tracing across Kubernetes / OpenShift / Nomad environments utilizing Kibana and Grafana dashboards.
-
-### 🚀 3. Framework Scalability & Developer Experience (DevEx)
-- **Low-Code Step Libraries**: Designed modular framework cores in Java and TypeScript with parameterized reusable step catalogs, slashing test case maintenance and accelerating sprint delivery cycles by 40%.
-- **Unified Functional & Performance Testing**: Pioneered unified BDD suites where functional `.feature` acceptance scenarios are directly compiled into Gatling load/stress simulations.
+- **Core Languages**: Java, TypeScript, JavaScript, Python, C++, SQL, Bash, PowerShell
+- **Automation & BDD**: Cucumber (BDD), Karate DSL, RestAssured, Selenium WebDriver, Playwright, Appium, Cypress, JUnit 5, TestNG
+- **AI & Multi-Agent Systems**: Model Context Protocol (MCP) Servers, Multi-Agent QA Pipelines, GitHub Copilot Workflows, LLM Evaluation
+- **Event-Driven & Microservices**: Apache Kafka, Kafka Magic, AVRO Schemas, WireMock, Spring Boot, Node.js, REST APIs
+- **Frontend & Mobile**: Angular, TypeScript, Android (Java/Kotlin), HTML5/SCSS, Responsive Web Architecture
+- **Performance & Load Testing**: Gatling, Apache JMeter
+- **CI/CD & Infrastructure**: Jenkins Pipelines, Azure DevOps, Docker, HashiCorp Nomad, Git / GitHub Actions
+- **Data & Observability**: MySQL, Oracle, MongoDB, SQLite, Kibana, Grafana, SonarQube, Checkstyle, Jira + Xray
 
 ---
 
-## 🛠️ Technical Stack & Tooling Matrix
+### 🌟 Featured Open-Source Repositories
 
-<div align="center">
-
-| Domain | Technologies & Tooling |
-|---|---|
-| **Core Automation Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
-| **BDD, API & Web Automation** | ![Cucumber](https://img.shields.io/badge/Cucumber_BDD-23D96C?style=flat-square&logo=cucumber&logoColor=white) ![Karate](https://img.shields.io/badge/Karate_DSL-D12A34?style=flat-square) ![RestAssured](https://img.shields.io/badge/RestAssured-222222?style=flat-square) ![Selenium](https://img.shields.io/badge/Selenium_WebDriver-43B02A?style=flat-square&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Appium](https://img.shields.io/badge/Appium-662D91?style=flat-square&logo=appium&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white) |
-| **AI, MCP & Agentic Testing** | ![MCP](https://img.shields.io/badge/Model_Context_Protocol_(MCP)-8A2BE2?style=flat-square) ![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Orchestrators-00A67E?style=flat-square&logo=openai&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white) ![LLM Evaluation](https://img.shields.io/badge/LLM_Deterministic_Eval-FF6F00?style=flat-square) |
-| **Event-Driven & Microservices** | ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![Kafka Magic](https://img.shields.io/badge/Kafka_Magic-FF9900?style=flat-square) ![AVRO](https://img.shields.io/badge/Apache_AVRO-0B5567?style=flat-square) ![WireMock](https://img.shields.io/badge/WireMock-7057ff?style=flat-square) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) |
-| **Frontend & Mobile Tech** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Android](https://img.shields.io/badge/Android_(Java%2FKotlin)-3DDC84?style=flat-square&logo=android&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white) |
-| **Performance & Load Testing** | ![Gatling](https://img.shields.io/badge/Gatling-FF6600?style=flat-square&logo=gatling&logoColor=white) ![Apache JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white) |
-| **CI/CD, Cloud & Infrastructure** | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nomad](https://img.shields.io/badge/HashiCorp_Nomad-00CA8E?style=flat-square&logo=nomad&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
-| **Data, Observability & Quality** | ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Jira + Xray](https://img.shields.io/badge/Jira_+_Xray-0052CC?style=flat-square&logo=jira&logoColor=white) |
-
-</div>
+| Repository | Focus & Architecture | Tech Stack |
+|---|---|---|
+| 🥒 [**cukeflow-qa-framework**](https://github.com/secali/cukeflow-qa-framework) | Unified BDD functional regression & Gatling load/stress testing engine for REST microservices | Java 17, Cucumber, Gatling, RestAssured, Jenkins |
+| 🤖 [**copilot-agent-testing-framework**](https://github.com/secali/copilot-agent-testing-framework) | BDD verification, prompt compliance & deterministic evaluation harness for AI coding agents | TypeScript, Cucumber BDD, MCP, Copilot |
+| ⚡ [**intellij-kafka-downloader-plugin**](https://github.com/secali/intellij-kafka-downloader-plugin) | IntelliJ IDEA plugin to inspect Kafka topics, filter schemas, and download streaming payload assets | Java 17, IntelliJ Platform SDK, Apache Kafka |
+| 📱 [**samsung-oneui-debloater**](https://github.com/secali/samsung-oneui-debloater) | Safe, non-root ADB optimization script removing analytics & carrier bloat on OneUI 5/6 | ADB CLI, Batch, Android OS |
+| 🏭 [**air-toxicity-rtu-monitor**](https://github.com/secali/air-toxicity-rtu-monitor) | Cyber-physical RTU sensor node for hazardous gas detection & autonomous alarm actuation | C++, Arduino Uno, MQ Gas Sensors |
+| 🚣 [**jabegapp-android**](https://github.com/secali/jabegapp-android) | Live regatta fixtures, GPS telemetry & club management app for traditional rowing | Android SDK (Java), SQLite, Mobile |
+| 🌊 [**jabegapp-web**](https://github.com/secali/jabegapp-web) | Modern web portal & analytics dashboard for the Malaga Traditional Rowing League | Angular, TypeScript, SCSS |
+| 🧠 [**ai-text-detector-classifier**](https://github.com/secali/ai-text-detector-classifier) | Machine Learning & NLP linguistic classifier distinguishing AI-generated text from human writing | Python, NLP, Machine Learning, Web UI |
 
 ---
 
-## 🌟 Featured Open-Source Projects & Tooling
-
-```
- ┌────────────────────────────────────────────────────────────────────────────────────────────────────────┐
- │                                  FEATURED OPEN-SOURCE ARCHITECTURES                                    │
- └────────────────────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
-### 🥒 [Cukeflow QA Framework](https://github.com/secali/cukeflow-qa-framework)
-> **Unified BDD Functional Regression & Gatling Performance Testing Engine for Microservices**
-- **Tech Stack**: `Java 17`, `Cucumber BDD`, `Gatling`, `RestAssured`, `Jenkins`
-- **Core Architecture**: Bridges functional automated acceptance testing with high-throughput load testing. Write Gherkin acceptance criteria once, then execute both functional verification and Gatling stress simulations with automated Jenkins CI pipeline reporting.
-
-### 🤖 [Copilot Agent Testing & Evaluation Framework](https://github.com/secali/copilot-agent-testing-framework)
-> **Automated BDD Verification & Deterministic Evaluation Harness for AI Coding Agents**
-- **Tech Stack**: `TypeScript`, `Cucumber BDD`, `Model Context Protocol (MCP)`, `GitHub Copilot`
-- **Core Architecture**: Implements deterministic evaluation assertions for AI agents across prompt compliance, tool dispatch accuracy, and multi-turn conversational memory banks.
-
-### ⚡ [IntelliJ Kafka Downloader Plugin](https://github.com/secali/intellij-kafka-downloader-plugin)
-> **IntelliJ IDEA IDE Plugin for Kafka Event Streams & Payload Asset Downloading**
-- **Tech Stack**: `Java 17`, `IntelliJ Platform SDK`, `Apache Kafka`, `Gradle`
-- **Core Architecture**: Provides a native tool window in IntelliJ to inspect streaming Kafka topics, filter payload schemas (JSON/AVRO), extract media/document URLs via regex, and trigger concurrent batch downloads.
-
-### 📱 [Samsung OneUI Debloater & Optimizer](https://github.com/secali/samsung-oneui-debloater)
-> **Safe, Non-Root Reversible ADB Debloater with 100+ Curated Package Modules**
-- **Tech Stack**: `Batch`, `Android Debug Bridge (ADB)`, `Android OS`
-- **Core Architecture**: Menu-driven Windows automation script stripping analytics, Knox telemetry, and background carrier daemons on OneUI devices without root permissions.
-
-### 🏭 [Industrial Air Toxicity RTU Monitor](https://github.com/secali/air-toxicity-rtu-monitor)
-> **Cyber-Physical RTU Node for Real-Time Hazardous Gas Detection & Emergency Actuation**
-- **Tech Stack**: `C++`, `Arduino Uno / Nano`, `MQ Gas Sensors`, `Embedded Systems`
-- **Core Architecture**: Continuous ADC sampling with moving-average noise calibration, multi-level danger threshold evaluation, and autonomous visual/acoustic emergency sirens.
-
-### 🚣 [JábegApp Mobile & Web Ecosystem](https://github.com/secali/jabegapp-android)
-> **Official Regatta Companion & Telemetry Platform for the Malaga Traditional Rowing League**
-- **Tech Stack**: `Android SDK (Java)`, `SQLite`, `Angular`, `TypeScript`, `SCSS`
-- **Core Architecture**: Native Android mobile companion paired with an Angular web dashboard providing live regatta tracking, GPS telemetry, club rosters, and offline SQLite data synchronization.
-
----
-
-## 💼 Professional Experience & Track Record
+### 💼 Professional Experience & Track Record
 
 | Period | Role | Company | Core Stack & Key Achievements |
 |---|---|---|---|
@@ -137,19 +79,16 @@
 
 ---
 
-## 🎓 Education & Continuous Specialization
+### 🎓 Education & Specialization
 
-- 🧠 **Specialization in Generative AI Applied to Software Development and QA**  
-  *DEXS (Digital Experience School)* • *2026*
-- 🎓 **Bachelor's Degree in Computer Engineering**  
-  *Universidad Europea* • *2022 – 2025*
-- 🎓 **Bachelor's Degree in Computer Engineering (Foundational Studies)**  
-  *University of Málaga* • *2016 – 2022*
+- 🧠 **Specialization in Generative AI Applied to Development and QA** — *DEXS (Digital Experience School), 2026*
+- 🎓 **Bachelor's Degree in Computer Engineering** — *Universidad Europea (2022–2025)*
+- 🎓 **Bachelor's Degree in Computer Engineering** — *University of Málaga (2016–2022)*
 - 🗣️ **Languages**: English (B2 Professional Working Proficiency) | Spanish (Native)
 
 ---
 
-## 📊 Live GitHub Analytics & Language Metrics
+### 📊 Live GitHub Analytics & Language Metrics
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=secali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
@@ -167,7 +106,7 @@
 
 <div align="center">
 
-## 🤝 Let's Connect & Collaborate
+### 🤝 Let's Connect & Collaborate
 
 Whether you're looking to scale test automation architectures, build event-driven Kafka testing strategies, integrate AI/MCP agents into your QA workflow, or discuss SDET engineering best practices — feel free to reach out!
 
