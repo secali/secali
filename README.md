@@ -56,6 +56,7 @@
 
 | Repository | Focus & Architecture | Tech Stack |
 |---|---|---|
+| 🎤 [**traducvoz-speech-translator**](https://github.com/secali/traducvoz-speech-translator) | Universal offline real-time speech-to-speech AI translation pipeline (Silero VAD + Faster-Whisper + Piper TTS + Local LLM) | Python, Faster-Whisper, Silero VAD, Piper TTS, Ollama |
 | 🥒 [**cukeflow-qa-framework**](https://github.com/secali/cukeflow-qa-framework) | Unified BDD functional regression & Gatling load/stress testing engine for REST microservices | Java 17, Cucumber, Gatling, RestAssured, Jenkins |
 | 🤖 [**copilot-agent-testing-framework**](https://github.com/secali/copilot-agent-testing-framework) | BDD verification, prompt compliance & deterministic evaluation harness for AI coding agents | TypeScript, Cucumber BDD, MCP, Copilot |
 | ⚡ [**intellij-kafka-downloader-plugin**](https://github.com/secali/intellij-kafka-downloader-plugin) | IntelliJ IDEA plugin to inspect Kafka topics, filter schemas, and download streaming payload assets | Java 17, IntelliJ Platform SDK, Apache Kafka |
