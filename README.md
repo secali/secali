@@ -1,26 +1,44 @@
-Bienvenid@ a mi Github 👋:
+# Hi there, I'm Sergio Cañete (secali) 👋
 
-Me gustan los retos y me he propuesto diversos proyectos desde que tengo la capacidad suficiente para realizarlos:
+```json
+{
+  "role": "Software & QA Automation Engineer",
+  "focus": [
+    "QA Automation & BDD Frameworks",
+    "AI Agent Testing & Verification",
+    "IoT & Cyber-Physical Systems",
+    "Full-Stack Web & Mobile Architecture"
+  ],
+  "location": "Spain",
+  "passions": ["Clean Architecture", "Performance Profiling", "Open Source Tooling"]
+}
+```
 
-- Sistema de IoT que se conecta al porterillo electrónico de una vivienda, si una persona toca una determinada melodía prestablecida, este abre la puerta.
+---
 
-https://github.com/secali/Sistema_AMPE_arduino
+### 🛠️ Tech Stack & Tooling
 
-- Desarrollo de la primera app para Android de la Liga de Jábegas Malagueña.
+- **Languages**: Java, TypeScript, Python, C++, SQL, Bash
+- **Automation & Testing**: Cucumber (BDD), Gatling, Selenium WebDriver, JUnit, Mockito, Postman
+- **Backend & Cloud**: Spring Boot, Node.js, Express, REST APIs, Kafka, Docker
+- **Frontend & Mobile**: Angular, TypeScript, Android (Java/Kotlin), HTML5/SCSS
+- **Embedded & IoT**: Arduino, Raspberry Pi, RTU Sensors, ADB Automation
 
-https://github.com/secali/Jabegapp_Android
+---
 
-- Desarrollo de prototipo y prueba de concepto de app para Android de remo-ergómetro.
+### 🌟 Featured Open-Source Repositories
 
-https://github.com/secali/Bogador-Challenge
+| Repository | Focus | Tech Stack |
+|---|---|---|
+| 🥒 [**cukeflow-qa-framework**](https://github.com/secali/cukeflow-qa-framework) | Unified BDD functional & Gatling performance testing engine | Java, Cucumber, Gatling |
+| 🐱 [**copilot-agent-testing-framework**](https://github.com/secali/copilot-agent-testing-framework) | Automated evaluation & testing framework for AI agents | TypeScript, BDD, Cucumber |
+| 📱 [**samsung-oneui-debloater**](https://github.com/secali/samsung-oneui-debloater) | Safe, non-root ADB optimization script for OneUI devices | ADB, Batch, Android |
+| 🏭 [**air-toxicity-rtu-monitor**](https://github.com/secali/air-toxicity-rtu-monitor) | Industrial RTU sensor node for hazardous gas detection | C++, Arduino, RTU |
+| 🚣 [**jabegapp-android**](https://github.com/secali/jabegapp-android) | Live regatta tracking & telemetry for traditional rowing | Android, Java, SQLite |
 
-- Desarrollo de script para facilitar la traducción automática de apps mediante el API de Traductor de Google en ficheros XML.
+---
 
-https://github.com/secali/Traductor_Strings.xml_Android_Apps
-
-- Análisis y desarrollo de software de gestión interna para ONG Acoes en la Universidad de Málaga.
-
-https://github.com/secali/SII_Practicas
-
-
-Me gusta complementar mis conocimientos propios de mi campo con otros tantos, por lo que me gusta leer/escuchar podcast o divulgación de marketing y administración y dirección de empresa.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=secali&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=secali&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
+</div>
